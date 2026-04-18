@@ -1,0 +1,7 @@
+[2026-04-18T12:44:38Z] === AST ITERATION 1 START | repo=sphinx-contrib/jquery sha=f45993d5 ===
+[2026-04-18T12:44:38Z] [iter=1] PHASE START: ast repo=sphinx-contrib/jquery sha=f45993d5
+[2026-04-18T12:44:38Z] [iter=1] Building AST aggregate chunks
+[2026-04-18T12:45:32Z] [iter=1] AST chunks built count=1 triples=557266
+[2026-04-18T12:45:32Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/f45993d5657e2afb96e4a730b9033673af7ab0ef/.complete
+[2026-04-18T12:45:32Z] [iter=1] PHASE END: ast elapsed_s=54 elapsed_min=0.9
+[2026-04-18T12:45:32Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
